@@ -1,14 +1,19 @@
+`Live Preview`: https://ibrahimk4111.github.io/ticket-form/
+
 # `How to deploy react app on github`
 
-## fistly push your code on github successfully.
+### Step-1
 
-## After that Open the VSCODE terminal:
+First of all push your code on github successfully.
 
-Step-1:
+### Step-2
+After that Open the VSCODE terminal:
 
-npm install gh-pages --save-dev
+`npm install gh-pages --save-dev`
 
-Step-2:  Open 'package.json' file and write:
+### Step-3
+
+Open 'package.json' file and write
 
             "homepage": "https://{User Name}.github.io/{App Name}"
             
@@ -17,15 +22,16 @@ Step-2:  Open 'package.json' file and write:
                 "deploy": "gh-pages -d build",
                 }
             
-Step-3:
+### Step-4
 
-npm run deploy
+`npm run deploy`
 
-## Then go to your github Repository:
-Step-4:
+### Step-5
 
-setting>pages
+Then go to your github Repository:
 
-Step-5:
+`setting > pages`
 
-Click on available link there.
+### Step-6
+
+`Click on available link there`
