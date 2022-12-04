@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ticket-form/static/css/main.06c3a335.css",
-    "main.js": "/ticket-form/static/js/main.3174f0f0.js",
+    "main.css": "/ticket-form/static/css/main.de6c395b.css",
+    "main.js": "/ticket-form/static/js/main.7018636a.js",
     "static/js/787.c88f3aa4.chunk.js": "/ticket-form/static/js/787.c88f3aa4.chunk.js",
     "static/media/bg.png": "/ticket-form/static/media/bg.5535ee9c49f2a5091948.png",
     "index.html": "/ticket-form/index.html",
-    "main.06c3a335.css.map": "/ticket-form/static/css/main.06c3a335.css.map",
-    "main.3174f0f0.js.map": "/ticket-form/static/js/main.3174f0f0.js.map",
+    "main.de6c395b.css.map": "/ticket-form/static/css/main.de6c395b.css.map",
+    "main.7018636a.js.map": "/ticket-form/static/js/main.7018636a.js.map",
     "787.c88f3aa4.chunk.js.map": "/ticket-form/static/js/787.c88f3aa4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.06c3a335.css",
-    "static/js/main.3174f0f0.js"
+    "static/css/main.de6c395b.css",
+    "static/js/main.7018636a.js"
   ]
 }
